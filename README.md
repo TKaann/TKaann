@@ -1,6 +1,6 @@
-[![MasterHead](https://pbs.twimg.com/media/D_rVBWnX4AAdNlv?format=jpg&name=large)
+![MasterHead](https://pbs.twimg.com/media/D_rVBWnX4AAdNlv?format=jpg&name=large)
 <h1 align="center">Hi 👋, I'm Tayyib Kaan İsen</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A software developer</h3>
 
 - 📫 How to reach me **tkaanisn@gmail.com**
 
