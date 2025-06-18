@@ -73,7 +73,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkaann&show_icons=true&locale=en" alt="tkaann" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tkaann&" alt="tkaann" /></p>
 
 
 
